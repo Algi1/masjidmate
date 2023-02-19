@@ -1,6 +1,7 @@
 # Masjid Mate
 
-![Makkah](images/yasmine-arfaoui-R6rh5ttDO-4-unsplash.jpg)
+![yasmine-arfaoui-R6rh5ttDO-4-unsplash](https://user-images.githubusercontent.com/86541956/219946563-0c419f04-0b8b-43e9-8165-bc5e63a162a2.jpg)
+
 
 Masjid Mate is a Python app that helps Muslims find nearby mosques and catch prayers on time. It consists of three scripts:
 
@@ -59,4 +60,4 @@ Masjid Mate was created by Algi.
 
 ## Resources
 
-I used the Google Maps API to retrieve the user's location and find nearby mosques. Additionally, I used the Aladhan API to retrieve the prayer times for the user's location. To interact with these APIs, I used the googlemaps and requests Python libraries.
+I used the Google Maps API to retrieve the user's location and find nearby mosques. Additionally, I used the Aladhan API to retrieve the prayer times for the user's location. To interact with these APIs, I used the googlemaps and requests Python libraries. Image credits: Yasmine Arfaoui, Unsplash
