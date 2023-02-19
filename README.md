@@ -1,6 +1,6 @@
 # Masjid Mate
 
-![Makkah](yasmine-arfaoui-R6rh5ttDO-4-unsplash.jpg)
+![Makkah](images/yasmine-arfaoui-R6rh5ttDO-4-unsplash.jpg)
 
 Masjid Mate is a Python app that helps Muslims find nearby mosques and catch prayers on time. It consists of three scripts:
 
